@@ -1,2 +1,0 @@
-path:
-  no_auth: /adminAccount/login,/adminAccount/admin/checkAdminAccountByToken
