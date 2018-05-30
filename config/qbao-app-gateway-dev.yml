@@ -1,0 +1,5 @@
+path:
+  no_auth: /**/file/**,/wallet/startWithdrawBatch,/contract/insertApi,/s/gt,/s/pay/gt,/account/createAccount,/account/importAccount,/android/findAndroidLatest, /android/findIOSLatest,/groupManager/saveGroupManager,/s/gc,/invite/accountInvitedInfo,/url/getCustomerInfo,/tokenCalendar/getTokenCalendarEventInfo,/group/getGroupShareUrlInfo,/activity/guessGamble/getGambleGameShareParams
+  no_sign: /**/file/**,/wallet/startWithdrawBatch,/contract/insertApi,/android/findAndroidLatest,/android/findIOSLatest,/activity-websocket/**,/invite/accountInvitedInfo,/url/getCustomerInfo,/tokenCalendar/getTokenCalendarEventInfo,/group/getGroupShareUrlInfo,/activity/guessGamble/getGambleGameShareParams
+  no_encryption: /**/file/**,/android/findAndroidLatest,/android/findIOSLatest,/activity-websocket/**
+  no_encryption_response: /**/file/**, /android/findAndroidLatest, /android/findIOSLatest, /s/gc,/activity-websocket/**
